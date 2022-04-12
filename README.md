@@ -5,7 +5,7 @@ The purpose of this project is to create a customer service chat bot agent which
 To develop this software, our team decided to work with the Agile Scrum SDLC. The rationale behind choosing Scrum is because we wanted to follow a model that allows the flexibility to monitor the software development as the project is being developed throughout the term. Utilizing Scrum will allow the team to provide feedback throughout any stage of the project and iterate accordingly.
 ## New APIs for Individual Project:
 -Google Places API
--Google Geolocation API
+-Google Geocoding API
 -Google Directions API
 -These APIs are used in conjunction to provide a user directions to their nearest post office should they wish to return an item.
 
