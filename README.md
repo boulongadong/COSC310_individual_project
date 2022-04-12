@@ -3,7 +3,14 @@
 The purpose of this project is to create a customer service chat bot agent which will communicate with basic canned sentences. The chat bot will offer the opportunity for users to leave reviews or return specific products from its online store. This conversation between the user and chat bot is “smooth,” and provides the user with a realistic customer service conversation which can undergo 30 or more turns of dialogue. 
 
 To develop this software, our team decided to work with the Agile Scrum SDLC. The rationale behind choosing Scrum is because we wanted to follow a model that allows the flexibility to monitor the software development as the project is being developed throughout the term. Utilizing Scrum will allow the team to provide feedback throughout any stage of the project and iterate accordingly.
+## New APIs for Individual Project:
+-Google Places API
+-Google Geolocation API
+-Google Directions API
+-These APIs are used in conjunction to provide a user directions to their nearest post office should they wish to return an item.
 
+## Important: Install Google API libraries
+```pip install -U googlemaps```
 ## Installation and Running the Chat Bot
 Either download this repository or clone it to your desired directory with 
 ```git clone https://github.com/mvallido/cosc310_team1_chatbot``` 
